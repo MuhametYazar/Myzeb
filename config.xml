@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.myazar.myzeb"
+varsionCode= "1"
+version = "1.0.0">
+<name>Myzeb</name>
+<description>
+Myzeb
+</description>
+<author href="http://www.myazar.com" email="muhammettyazar42@gmail.com">Muhammet Yazar</author>
+<icon src="icon.png" />
+</widget>
